@@ -18,12 +18,13 @@
 - ⚡ Fun fact: I enjoy creating 3D objects in Blender and playing Chess in my free time. -->
  ## Social media
    [![GitHub](icons/github.png)](https://github.com/SukLearnH90a)
+   &nbsp;
    [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/luka-tarkhnishvili/)
-
-   <a href="https://github.com/SukLearnH90a/" title="Github"><img src="icons/github.png" alt="Github Icon"></a>
+   &nbsp;
+<!--    <a href="https://github.com/SukLearnH90a/" title="Github"><img src="icons/github.png" alt="Github Icon"></a>
    &nbsp;
    <a href="https://www.linkedin.com/in/luka-tarkhnishvili/" title="linkedin"><img src="icons/linkedin.png" alt="linkedin Icon"></a>
-   &nbsp;
+   &nbsp; -->
  ## 🛠 Currently working with
    &nbsp;
    <a href="https://html.com/" title="HTML"><img src="icons/HTML5.png" alt="HTML Icon"></a>
