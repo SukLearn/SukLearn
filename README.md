@@ -3,7 +3,7 @@
 ### Hi there 👋
  My name is Luka Tarkhnishvili i am future front-end developer. at the moment i am sophrome student. have experience with various programs with all kind network, penetration programs(ethical hacking), local servers (denwer, xampp)
 - <img alt="GIF" src="https://github.com/SukLearnH90a/SukLearnH90a/blob/main/icons/Developer.gif" width="25" /> &nbsp; I’m currently learning web development with a focus on front-end technologies. <br>
-- <img src="https://github.com/SukLearnH90a/SukLearnH90a/blob/main/icons/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
+- <img src="https://github.com/SukLearnH90a/SukLearnH90a/blob/main/icons/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I’m looking to collaborate on open-source projects related to web development or UI/UX design. <br>
 - <img src="https://github.com/SukLearnH90a/SukLearnH90a/blob/main/icons/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about my experience with HTML, CSS, and JavaScript, and how I approach building modern web applications. <br>
 - <img src="https://github.com/SukLearnH90a/SukLearnH90a/blob/main/icons/smile.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; Pronouns: He/Him. <br>
 - <img src="https://github.com/SukLearnH90a/SukLearnH90a/blob/main/icons/letterbox.gif?raw=true" width="25" /> &nbsp; How to reach me: Luka.Tarkhnishvili2002@gmail.com@gmail.com<br>
