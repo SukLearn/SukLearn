@@ -8,4 +8,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
 angular.png
-<img src="/SukLearnH90a/SukLearnH90a/raw/main/icons/angular.png"> 
+    <a href="https://angular.io/" title="Angular"><img src="/SukLearnH90a/SukLearnH90a/raw/main/icons/angular.png" alt="Angular Icon"></a>
