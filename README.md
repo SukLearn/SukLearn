@@ -1,12 +1,14 @@
+<base target="_blank">
+
 ### Hi there 👋
  My name is Luka Tarkhnishvili i am future front-end developer. at the moment i am sophrome student. have experience with various programs with all kind network, penetration programs(ethical hacking), local servers (denwer, xampp)
-- <img alt="GIF" src="https://github.com/SukLearnH90a/blob/main/icons/Developer.gif" width="25" /> &nbsp; I’m currently learning web development with a focus on front-end technologies. <br>
-- <img src="https://github.com/SukLearnH90a/blob/main/icons/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
-- <img src="https://github.com/SukLearnH90a/blob/main/icons/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about my experience with HTML, CSS, and JavaScript, and how I approach building modern web applications. <br>
-- <img src="https://github.com/SukLearnH90a/blob/main/icons/smile.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; Pronouns: He/Him. <br>
+- <img alt="GIF" src="https://github.com/SukLearnH90a/SukLearnH90a/blob/main/icons/Developer.gif" width="25" /> &nbsp; I’m currently learning web development with a focus on front-end technologies. <br>
+- <img src="https://github.com/SukLearnH90a/SukLearnH90a/blob/main/icons/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
+- <img src="https://github.com/SukLearnH90a/SukLearnH90a/blob/main/icons/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about my experience with HTML, CSS, and JavaScript, and how I approach building modern web applications. <br>
+- <img src="https://github.com/SukLearnH90a/SukLearnH90a/blob/main/icons/smile.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; Pronouns: He/Him. <br>
 
-- <img src="https://github.com/SukLearnH90a/blob/main/icons/letterbox.gif?raw=true" width="25" /> &nbsp; How to reach me: Luka.Tarkhnishvili2002@gmail.com@gmail.com<br>
-- &nbsp;&nbsp;<img src="https://github.com/SukLearnH90a/blob/main/icons/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: I enjoy creating 3D objects in Blender and playing Chess in my free time.
+- <img src="https://github.com/SukLearnH90a/SukLearnH90a/blob/main/icons/letterbox.gif?raw=true" width="25" /> &nbsp; How to reach me: Luka.Tarkhnishvili2002@gmail.com@gmail.com<br>
+- &nbsp;&nbsp;<img src="https://github.com/SukLearnH90a/SukLearnH90a/blob/main/icons/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: I enjoy creating 3D objects in Blender and playing Chess in my free time.
 <!-- - 🌱 I’m currently learning web development with a focus on front-end technologies.
 - 👯 I’m looking to collaborate on open-source projects related to web development or UI/UX design.
 - 🤔 I'm looking for help with improving my skills in JavaScript and responsive web design.
@@ -24,9 +26,9 @@
    &nbsp;
  ## 🛠 Currently working with
    &nbsp;
-   <a href="https://html.com/" title="HTML"><img src="icons/HTML.png.png" alt="HTML Icon"></a>
+   <a href="https://html.com/" title="HTML"><img src="icons/HTML5.png" alt="HTML Icon"></a>
    &nbsp;
-   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS"><img src="icons/CSS.png.png" alt="CSS Icon"></a>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS"><img src="icons/CSS3.png" alt="CSS Icon"></a>
    &nbsp;
    <a href="https://www.javascript.com/" title="JS"><img src="icons/javascript.png" alt="JS Icon"></a>
    &nbsp;
