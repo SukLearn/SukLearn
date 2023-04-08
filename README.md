@@ -8,7 +8,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
 angular.png
-    <a href="https://angular.io/" title="Angular"><img src="/SukLearnH90a/SukLearnH90a/blob/main/icons/angular.png" alt="Angular Icon"></a>
+    <a href="https://angular.io/" title="Angular"><img src="/SukLearnH90a/SukLearnH90a/icons/angular.png" alt="Angular Icon"></a>
     <a href="https://git-scm.com/" title="Git"><img src="/SukLearnH90a/SukLearnH90a/tree/main/icons/git.png.png" alt="Git Icon"></a>
     <a href="https://github.com/" title="Github"><img src="/SukLearnH90a/SukLearnH90a/tree/main/icons/github.png" alt="Github Icon"></a>
     <a href="https://go.dev/" title="GoLang"><img src="/SukLearnH90a/SukLearnH90a/tree/main/icons/golang.png" alt="Golang Icon"></a>
