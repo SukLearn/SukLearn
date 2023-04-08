@@ -21,3 +21,4 @@ angular.png
     <a href="https://code.visualstudio.com/" title="Visualstudio"><img src="/SukLearnH90a/SukLearnH90a/tree/main/icons/vscode.png" alt="Visualstudio Icon"></a>
     <a href="https://wordpress.com/" title="Wordpress"><img src="/SukLearnH90a/SukLearnH90a/tree/main/icons/wordpress.png" alt="Wordpress Icon"></a>
     <a href="https://github.com/vim/vim" title="Vim"><img src="/SukLearnH90a/SukLearnH90a/tree/main/icons/vim.png" alt="Vim Icon"></a>
+    ![Image Alt Text](https://github.com/SukLearnH90a/repository/raw/main/icons/angular.png)
