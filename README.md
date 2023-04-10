@@ -8,7 +8,6 @@
 - <img src="https://github.com/SukLearnH90a/SukLearnH90a/blob/main/icons/smile.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; Pronouns: He/Him. <br>
 - <img src="https://github.com/SukLearnH90a/SukLearnH90a/blob/main/icons/letterbox.gif?raw=true" width="25" /> &nbsp; How to reach me: Luka.Tarkhnishvili2002@gmail.com@gmail.com<br>
 - &nbsp;&nbsp;<img src="https://github.com/SukLearnH90a/SukLearnH90a/blob/main/icons/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: I enjoy creating 3D objects in Blender and playing Chess in my free time.  <img align="right" src="https://profile-counter.glitch.me/SukLearn/count.svg" />
-
 <!-- - 🌱 I’m currently learning web development with a focus on front-end technologies.
 - 👯 I’m looking to collaborate on open-source projects related to web development or UI/UX design.
 - 🤔 I'm looking for help with improving my skills in JavaScript and responsive web design.
