@@ -4,9 +4,9 @@
  My name is Luka Tarkhnishvili i am future front-end developer. at the moment i am sophrome student. have experience with various programs with all kind network, penetration programs(ethical hacking), local servers (denwer, xampp)
 - <img alt="GIF" src="https://github.com/SukLearnH90a/SukLearnH90a/blob/main/icons/Developer.gif" width="25" /> &nbsp; I’m currently learning web development with a focus on front-end technologies. <br>
 - <img src="https://github.com/SukLearnH90a/SukLearnH90a/blob/main/icons/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I’m looking to collaborate on open-source projects related to web development or UI/UX design. <br>
-- <img src="https://github.com/SukLearnH90a/SukLearnH90a/blob/main/icons/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about my experience with HTML, CSS, and JavaScript, and how I approach building modern web applications. <br>
+- <img src="https://github.com/SukLearnH90a/SukLearnH90a/blob/main/icons/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about my experience with HTML, CSS, and JavaScript, React, Node/Express, React, Angular and how I approach building modern web applications. <br>
 - <img src="https://github.com/SukLearnH90a/SukLearnH90a/blob/main/icons/smile.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; Pronouns: He/Him. <br>
-- <img src="https://github.com/SukLearnH90a/SukLearnH90a/blob/main/icons/letterbox.gif?raw=true" width="25" /> &nbsp; How to reach me: Luka.Tarkhnishvili2002@gmail.com@gmail.com<br>
+- <img src="https://github.com/SukLearnH90a/SukLearnH90a/blob/main/icons/letterbox.gif?raw=true" width="25" /> &nbsp; How to reach me: Luka.Tarkhnishvili2002@gmail.com<br>
 - &nbsp;&nbsp;<img src="https://github.com/SukLearnH90a/SukLearnH90a/blob/main/icons/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: I enjoy creating 3D objects in Blender and playing Chess in my free time.  <img align="right" src="https://profile-counter.glitch.me/SukLearn/count.svg" />
 <!-- - 🌱 I’m currently learning web development with a focus on front-end technologies.
 - 👯 I’m looking to collaborate on open-source projects related to web development or UI/UX design.
