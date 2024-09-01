@@ -49,13 +49,12 @@
    &nbsp;
    <a href="https://react.dev/" title="React"><img src="icons/react.png" alt="React Icon"></a>
    &nbsp;
+   <a href="https://www.typescriptlang.org/" title="Typescript"><img src="icons/typescript.png" alt="Typescript Icon"></a>
 
    
 ## 👾  What I am interested in learning at some point
    &nbsp;
    <a href="https://go.dev/" title="GoLang"><img src="icons/golang.png" alt="Golang Icon"></a>
-   &nbsp;
-   <a href="https://www.typescriptlang.org/" title="Typescript"><img src="icons/typescript.png" alt="Typescript Icon"></a>
    &nbsp;
    <a href="https://angular.io/" title="Angular"><img src="icons/angular.png" alt="Angular Icon"></a>
    &nbsp;
